@@ -1,1 +1,1 @@
-# Stock-Price-Prediction
+# Data Science Intern
